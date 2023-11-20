@@ -1,4 +1,4 @@
-package com.example.JavaAPIGeracaoCaleira;
+package com.example.JavaGeracaoCaldeira;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
